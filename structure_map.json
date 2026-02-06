@@ -1,0 +1,25 @@
+{
+  "SYSTEM_NAME": "V-CORE",
+  "PROTOCOL": "Flower_of_Life_3-6-9",
+  
+  "MEMORY_MATRIX": {
+    "dimensions": "6 Metals x 7 Colors",
+    "total_states": 42,
+    "examples": {
+      "Fe-Red": "PHYSICAL_AGGRESSION",
+      "Cu-Green": "EMOTIONAL_LOVE",
+      "Au-Yellow": "WILLPOWER_CONTROL",
+      "Pb-Blue": "STRUCTURAL_DEPRESSION"
+    }
+  },
+
+  "OUTPUT_FORMAT": "KNOWLEDGE_CUBE",
+  "CUBE_FACES": {
+    "FRONT": "The Main Action (Mage)",
+    "BACK": "The Root Cause (Healer)",
+    "LEFT": "Logical Steps (Archer)",
+    "RIGHT": "Risk Assessment (Tank)",
+    "TOP": "Higher Purpose (Star/Light)",
+    "BOTTOM": "Foundation/Shadow (Earth/Dark)"
+  }
+}
