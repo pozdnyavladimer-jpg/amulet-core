@@ -1,0 +1,21 @@
+{
+  "UI_SKIN": "NORDIC_FRACTAL",
+  
+  "AGENTS_VISUALS": {
+    "TANK": {
+      "icon": "assets/runes/algiz.svg",
+      "color_hex": "#2F4F4F",
+      "animation": "static_shield"
+    },
+    "MAGE": {
+      "icon": "assets/runes/kenaz.svg",
+      "color_hex": "#FFD700",
+      "animation": "rotating_spiral"
+    },
+    "HEALER": {
+      "icon": "assets/runes/laguz.svg",
+      "color_hex": "#20B2AA",
+      "animation": "flowing_wave"
+    }
+  }
+}
