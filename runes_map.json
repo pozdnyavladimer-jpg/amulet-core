@@ -1,0 +1,27 @@
+{
+  "file_type": "VISUAL_LANGUAGE_MAPPING",
+  
+  "TANK_CLASS": {
+    "code_name": "STATE_DEFENSE",
+    "visual_rune": "ᛉ", 
+    "rune_name": "Algiz",
+    "meaning": "Щит, Захист, Коріння",
+    "description": "Цей стан вмикається, коли ресурси критично низькі."
+  },
+  
+  "MAGE_CLASS": {
+    "code_name": "STATE_TRANSFORMATION",
+    "visual_rune": "ᚲ",
+    "rune_name": "Kenaz",
+    "meaning": "Вогонь, Факел, Осяяння",
+    "description": "Цей стан активує генерацію нових ідей."
+  },
+
+  "ARCHER_CLASS": {
+    "code_name": "STATE_FOCUS",
+    "visual_rune": "ᛏ",
+    "rune_name": "Tiwaz",
+    "meaning": "Стріла, Вектор, Справедливість",
+    "description": "Цей стан для логічного розрахунку шляху."
+  }
+}
